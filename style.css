@@ -1,0 +1,135 @@
+body{
+
+	background-color: #d4d6d5;
+}
+
+
+.btn-nav{
+	margin-top: 5%;
+	margin-bottom: 5%;
+}
+
+.main-posts{
+
+	margin-top: 5%;
+}
+
+.content{
+	text-align: justify;
+}
+
+.box:hover{
+
+	box-shadow: 1px 3px 10px black;
+	transition: 0.4s;
+	border-radius: 10px;
+}
+
+.titulo{
+	padding-left: 1.5%;
+}
+
+.description{
+	padding-left: 1.5%;
+}
+
+#ancoraIndex{
+
+	padding-left: 1.5%;
+
+}
+
+#btnVoltar{
+	padding-bottom: 2%;
+
+}
+
+.nav-bar{
+
+	background-color: #404142;
+
+}
+
+.titulo {
+	color: #17a294;
+}
+
+.title-view {
+	color: #17a294;
+}
+
+.categoria{
+
+	color: #eaefed;
+	font-size: 10px;
+	text-shadow: 0px 1px 5px black;
+}
+
+.btnForm{
+	background-color: #17a294;
+	border-color: #17a294;
+
+}
+
+.btnForm:hover{
+
+	background-color: #17a294;
+	border-color: #17a294;
+
+}
+
+.logo{
+
+	font-family: 'Anton', sans-serif;
+	color: white;
+	font-size: 50px;
+	text-align: center;
+	padding-top: 1.25%;
+	padding-bottom: 1.25%;
+}
+
+.main-left{
+
+	text-align: center;
+	margin-top: 10%;
+
+}
+
+.main-left button{
+
+	margin-top: 3%;
+	background-color: #17a294;
+	border-style: solid;
+	border-color:#17a294;
+	border-radius:10px;
+	color: white;
+}
+
+.main-left a{
+
+	margin-top: 3%;
+	background-color: #17a294;
+	border-style: solid;
+	border-color:#17a294;
+	border-radius:10px;
+	color: white;
+}
+
+.user-tip{
+
+	font-family: 'Amatic SC', cursive;
+	color: white;
+	font-size: 30px;
+}
+
+.textoUm input[type=text]{
+
+	width: 100%;
+	height: 50px;
+}
+
+.textoDois input[type=text]{
+
+	width: 100%;
+	height: 300px;
+}
